@@ -10,6 +10,6 @@
 * predictor significance using f-stat
 
 ## note:
-* [Banknote Authentication link](https://archive.ics.uci.edu/ml/datasets/banknote+authentication#)
-* [Combined Cycle Power Plant link](https://archive.ics.uci.edu/ml/datasets/Combined+Cycle+Power+Plant)
-* the following assignments below were completed using scikit-learn, numpy, pandas, matplotlib, and other python packages
+* [Banknote Authentication Dataset Link](https://archive.ics.uci.edu/ml/datasets/banknote+authentication#)
+* [Combined Cycle Power Plant Dataset Link](https://archive.ics.uci.edu/ml/datasets/Combined+Cycle+Power+Plant)
+* python packages includes scikit-learn, numpy, pandas, matplotlib
